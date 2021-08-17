@@ -15,6 +15,5 @@ My name is Télico Oliveira. I'm a math teacher and I love programing. My dream 
 https://www.instagram.com/telico.oliveira/
 
 [![Télico's GitHub stats](https://github-readme-stats.vercel.app/api?username=telicoscience)](https://github.com/telicoscience/github-readme-stats&show_icons=true)
-)
 
 
