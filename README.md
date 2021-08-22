@@ -14,7 +14,9 @@ My name is Télico Oliveira. I'm a math teacher and I love programing. My dream 
 - https://api.whatsapp.com/send?phone=5584991319990 </p>
 https://www.instagram.com/telico.oliveira/
 
-![Télico's GitHub stats](https://github-readme-stats.vercel.app/api?username=telicoscience&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=telicoscience&show_icons=true&locale=en&layout=compact" alt="telicoscience" /></p>
+
+![Télico's GitHub stats](https://github-readme-stats.vercel.app/api?username=telicoscience&show_icons=true)
 
 
 
