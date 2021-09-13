@@ -10,7 +10,7 @@ My name is Télico Oliveira. I'm a math teacher and I love programing. My dream 
 - 👯 I’m looking to collaborate on web development, HTML5, CSS, JS, PHP. 
 - 🤔 I’m looking for help to find a career as a dev (my first job on area). 
 - 💬 Ask me about ...
-- 📫 How to reach me: I'm usualy on whatsapp, github, telegram and instagram. I Don't have facebook. There's my social networks: 
+- 📫 How to reach me: I'm usualy on LinkedIn, whatsapp, github, telegram and instagram. I Don't have facebook. My social networks contacts is below:  
 
 
 
