@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there 👋   <img src="images/brazil-icon.png" height=20>
+
 
 <!--
 **telicoscience/telicoscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-My name is Télico Oliveira. I'm a math teacher and I love programing. My dream is to work as a web developer in a technology company. I am from the state of Rio Grande do Norte. Here we have beautiful beaches and natural landscapes. For my career, I am willing to take on challenges and solve problems using logic and science. I am also willing to visit new places working with science and technology.
+My name is Télico Oliveira. I'm from Brazil  <img src="images/brazil-icon.png" height=20> . I'm a math teacher and I love programing. My dream is to work as a web developer in a technology company. I am from the state of Rio Grande do Norte. Here we have beautiful beaches and natural landscapes. For my career, I am willing to take on challenges and solve problems using logic and science. I am also willing to visit new places working with science and technology.
 
 - 🌱 I am currently studying git and github and taking cs50 online.
 - 👯 I’m looking to collaborate on web development, HTML5, CSS, JS, PHP. 
