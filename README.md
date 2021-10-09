@@ -10,7 +10,6 @@ My name is Télico Oliveira. I'm from Brazil  <img src="https://www.kindpng.com/
 - 🌱 I am currently studying git and github and taking cs50 online.
 - 👯 I’m looking to collaborate on web development, HTML5, CSS, JS, PHP. 
 - 🤔 I’m looking for help to find a career as a dev (my first job on area). 
-- 💬 Ask me about ...
 - 📫 How to reach me: I'm usualy on LinkedIn, whatsapp, github, telegram and instagram. I Don't have facebook. My social networks contacts is below:  
 
 
