@@ -23,7 +23,7 @@ My name is Télico Oliveira. I'm from Brazil  <img src="https://www.kindpng.com/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"/>
 </a>
 
-<a href = "https://api.whatsapp.com/send?p
+
 
 
 
