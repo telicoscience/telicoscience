@@ -23,9 +23,9 @@ My name is Télico Oliveira. I'm from Brazil  <img src="https://www.kindpng.com/
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" heigth="50" width="60"/>
 </a>
 
-<a href = "https://api.whatsapp.com/send?phone=5584991319990 ">
-<img src="https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-1.png" align="center" heigth="50" width="60"/>
-</a>
+<a href = "https://api.whatsapp.com/send?p
+
+
 
 <a href = "https://www.instagram.com/telico.oliveira/">
 <img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" align="center" heigth="50" width="60"/>
