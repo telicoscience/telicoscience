@@ -5,13 +5,12 @@
 **telicoscience/telicoscience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
-My name is Télico Oliveira. I'm from Brazil  <img src="https://www.kindpng.com/picc/m/130-1309274_br-brazil-flag-icon-brasil-flag-hd-png.png" height=20> . I'm a math teacher and I love programing. My dream is to work as a web developer in a technology company. I am from the state of Rio Grande do Norte. Here we have beautiful beaches and natural landscapes. For my career, I am willing to take on challenges and solve problems using logic and science. I am also willing to visit new places working with science and technology.
+My name is Télico Oliveira. I'm from Brazil <img src="https://www.kindpng.com/picc/m/130-1309274_br-brazil-flag-icon-brasil-flag-hd-png.png" height=20>. I'm a math teacher and I love programming. Currently, I'm working at a tech startup called Civis Company, where I focus on data engineering, especially with Python.
 
-- 🌱 I am currently studying git and github and taking cs50 online.
-- 👯 I’m looking to collaborate on web development, HTML5, CSS, JS, PHP. 
-- 🤔 I’m looking for help to find a career as a dev (my first job on area). 
-- 📫 How to reach me: I'm usualy on LinkedIn, whatsapp, github, telegram and instagram. I Don't have facebook. My social networks contacts is below:  
-
+🌱 I am currently studying Git and GitHub and taking the CS50 online course.
+👯 I’m looking to collaborate on web development projects using HTML5, CSS, JS, PHP, and Python.
+🤔 I’m seeking help to find a career as a developer (my first job in the field).
+📫 How to reach me: I'm usually available on LinkedIn, WhatsApp, GitHub, Telegram, and Instagram. I don't have Facebook. My social media contacts are listed below:
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=telicoscience&show_icons=true&locale=en&layout=compact&theme=dark" alt="telicoscience" /></p>
