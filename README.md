@@ -6,10 +6,10 @@ What I'm up to:
 👯 I’m open to collaborating on web development projects and DevOps-focused initiatives. I enjoy working with HTML5, CSS, JavaScript, Python, and Linux-based environments.
 🤔 I’m actively seeking mentorship and guidance as I pursue a career in DevOps and backend development.
 📫 How to reach me: I am available on LinkedIn, WhatsApp, GitHub, Telegram, and Instagram. Check out my social media below for more!
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=telicoscience&show_icons=true&locale=en&layout=compact&theme=dark" alt="telicoscience" /></p>
-
-
+<br>
 💻 Technologies & Tools:
 Programming & Scripting Languages
 <div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" align="center" heigth="50" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align="center" heigth="50" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align="center" heigth="50" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" heigth="50" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="center" heigth="50" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" heigth="50" width="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" align="center" heigth="50" width="60" /> </div>
