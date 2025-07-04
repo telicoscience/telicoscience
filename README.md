@@ -1,5 +1,5 @@
 Hi there 👋
-My name is Télico Oliveira. I'm from Brazil <img src="https://www.kindpng.com/picc/m/130-1309274_br-brazil-flag-icon-brasil-flag-hd-png.png" height=20pt>. I'm a math teacher passionate about technology and programming. I'm currently working at Civis Company, a tech startup focused on smart city solutions, where I combine my skills in data engineering with Python to solve urban challenges. Additionally, I am expanding my knowledge in DevOps and building my expertise in areas such as shell scripting, automation, and cloud deployments.
+My name is Télico Oliveira. I'm from Brazil <img src="https://www.kindpng.com/picc/m/130-1309274_br-brazil-flag-icon-brasil-flag-hd-png.png" height=20px>. I'm a math teacher passionate about technology and programming. I'm currently working at Civis Company, a tech startup focused on smart city solutions, where I combine my skills in data engineering with Python to solve urban challenges. Additionally, I am expanding my knowledge in DevOps and building my expertise in areas such as shell scripting, automation, and cloud deployments.
 
 What I'm up to:
 🌱 I am constantly improving my skills with Git, GitHub, and AWS cloud services. I've been working with EC2 instances, S3 buckets, and streaming applications to handle large-scale data.
