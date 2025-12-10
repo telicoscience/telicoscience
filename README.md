@@ -1,68 +1,112 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Télico Oliveira
 
-My name is **Télico Oliveira**. I'm from Brazil 🇧🇷  
-I’m a math teacher turned software developer, with a strong background in **data engineering**, **DevOps**, and **backend development**. Currently, I work at **Civis Company**, a tech startup focused on smart city solutions, where I lead and collaborate on projects that integrate **Python**, **AWS cloud**, and **automation tools** to solve real-world urban challenges.
-
-Over the years, I’ve contributed to various projects ranging from **web development** and **cloud deployments** to **real-time data streaming** and **shell scripting**. I’m passionate about building scalable, maintainable systems and continuously expanding my technical toolkit.
+**Desenvolvedor Full-Stack & DevOps** — especializado em WordPress, PHP, Java, infraestrutura, containers e automação.  
+Transformo ideias em aplicações e sites funcionais, seguros e otimizados — com velocidade, eficiência e clareza.
 
 ---
 
-### 🔧 What I'm working on:
-- 🌱 Deepening my expertise in **Git**, **Linux**, and **AWS Cloud** (EC2, S3, Lambda, Streaming apps).
-- 👷 Building automation scripts and cloud infrastructure as code using **shell scripting** and **Python**.
-- 💬 Mentoring and learning from other developers in the DevOps and backend community.
-- 🧠 Constantly improving my software design and architectural skills.
+## 🎯 O que eu faço
+
+- Desenvolvimento web backend com **PHP** e **Java**  
+- Sites e sistemas com **WordPress** (temas personalizados, plugins, manutenção)  
+- Front-end básico / intermediário com **HTML, CSS, JavaScript**  
+- Containerização e orquestração com **Docker / Docker Compose / Kubernetes (KIND)**  
+- Deploy e infraestrutura: VPS, servidores, SSL, DNS, backup, ambiente produtivo  
+- Solução de problemas, debugging, performance web, recuperação de sites  
 
 ---
 
-### 💼 Projects & Experience
-- **Smart City Solutions – Civis Company**: Automation, Python pipelines, and cloud integration for urban data processing.  
-- **AWS Streaming Application**: Real-time data ingestion and processing on the AWS cloud.  
-- **Hello World on Vercel**: First cloud deployment with Python to explore Vercel’s capabilities.
+## 💡 Skills Técnicas
+
+PHP · Java · HTML · CSS · JavaScript · WordPress · Web Development · Backend Web · Frontend · Docker · Docker Compose · Kubernetes · DevOps · Linux Administration · MySQL / SQL · Container Orchestration · Git / GitHub · Responsive Web Design · Site Deployment · Troubleshooting · WordPress Theme & Plugin Config · Web Application Development · REST API (básico) · Server Configuration · Site Recovery
+
+
+
+## 📂 Alguns projetos no GitHub
+
+| Projeto | Descrição | Destaques |
+|--------|-----------|-----------|
+| **civis-wordpress** | Tema / site WordPress personalizado | Site funcional + personalização de tema/estrutura |
+| **calendario-php** | Sistema de calendário em PHP | Backend + lógica de datas + interface web |
+| **quiz-app** | Aplicativo de quiz web | Interatividade, lógica de frontend/backend |
+| **exercicios_java** | Exercícios e algoritmos em Java | Lógica, estrutura de dados, programação orientada a objetos |
+| **damas** | Jogo “Damas” implementado em código | Algoritmos, lógica de jogo, estrutura de código limpa |
+| **torre-de-hanoi** | Implementação do clássico algoritmo Torre de Hanoi | Recursão, lógica algorítmica, clareza de código |
+
+> Veja todos os meus projetos públicos no meu perfil GitHub.
 
 ---
 
-### 💻 Technologies & Tools
+## 🔧 Ferramentas & Tecnologias Favoritas
 
-#### Programming & Scripting:
-<div> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" height="50" width="60" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="50" width="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="50" width="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" width="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" width="60" /> 
-</div>
+Docker · Docker Compose · Kubernetes (KIND) · VPS / Servidores Linux · WordPress · MySQL / MariaDB · Nginx / Apache · Git · VS Code / IDE favorita · Hospedagem VPS / Cloud / Deploy manual
 
-#### Cloud & DevOps:
-<div> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="50" width="60"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original-wordmark.svg" height="50" width="60"/> 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50" width="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="60"/> 
-</div>
+## 📫 Contato / Como me achar
 
-#### AWS Expertise:
-- **EC2**: Provisioning and managing scalable virtual machines.  
-- **S3**: Secure and optimized data storage and retrieval.  
-- **Streaming**: Real-time data pipelines and processing with AWS-native services.
+- GitHub: [github.com/telicoscience](https://github.com/telicoscience)  
+- Email: **telico@yahoo.com.br** 
+- LinkedIn: https://www.linkedin.com/in/t%C3%A9lico-oliveira-540b58241/ 
+- Disponível para freelas — desenvolvimento full-stack & DevOps, WordPress, websites, automação, manutenção de servidores.
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=telicoscience&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+**Obrigado por visitar meu perfil!** 🚀  
+Vamos construir algo juntos.
+
+# 👋 Hi! I’m Télico Oliveira
+
+**Full-Stack & DevOps Developer** — specialized in WordPress, PHP, Java, infrastructure, containers and automation.  
+I turn ideas into functional, secure and optimized applications and websites — with speed, efficiency and clarity.
 
 ---
 
-### 📫 Let's connect!
-<a href="https://www.linkedin.com/in/telicoscience/"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="50"/>
-</a> 
-<a href="https://www.instagram.com/telico.oliveira/"> 
-  <img src="https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" height="40" width="50"/> 
-</a>
+## 🎯 What I Do
+
+- Backend web development with **PHP** and **Java**  
+- Websites and systems built with **WordPress** (custom themes, plugins, maintenance)  
+- Basic / intermediate front-end with **HTML, CSS, JavaScript**  
+- Containerization and orchestration with **Docker / Docker Compose / Kubernetes (KIND)**  
+- Deployment and infrastructure: VPS, servers, SSL, DNS, backups, production environment setup  
+- Problem solving, debugging, web performance optimization, site recovery  
+
+---
+
+## 💡 Technical Skills
+
+PHP · Java · HTML · CSS · JavaScript · WordPress · Web Development · Web Backend · Frontend · Docker · Docker Compose · Kubernetes · DevOps · Linux Administration · MySQL / SQL · Container Orchestration · Git / GitHub · Responsive Web Design · Site Deployment · Troubleshooting · WordPress Theme & Plugin Configuration · Web Application Development · REST API (basic) · Server Configuration · Site Recovery
+
+---
+
+## 📂 Some Projects on GitHub
+
+| Project | Description | Highlights |
+|--------|-------------|------------|
+| **civis-wordpress** | Custom WordPress theme/site | Fully functional site + theme/structure customization |
+| **calendario-php** | Calendar system in PHP | Backend + date logic + web interface |
+| **quiz-app** | Web-based quiz application | Interactive interface, frontend/backend logic |
+| **exercicios_java** | Java exercises and algorithms | Logic, data structures, object-oriented programming |
+| **damas** | Checkers game implemented in code | Algorithms, game logic, clean code structure |
+| **torre-de-hanoi** | Implementation of the classic Tower of Hanoi algorithm | Recursion, algorithmic logic, clear code |
+
+> See all my public projects on my GitHub profile.
+
+---
+
+## 🔧 Favorite Tools & Technologies
+
+Docker · Docker Compose · Kubernetes (KIND) · Linux VPS / Servers · WordPress · MySQL / MariaDB · Nginx / Apache · Git · VS Code / Preferred IDE · Cloud / VPS Hosting · Manual Deployments
+
+---
+
+## 📫 Contact / Find Me
+
+- GitHub: [github.com/telicoscience](https://github.com/telicoscience)  
+- Email: **telico@yahoo.com.br**  
+- LinkedIn: https://www.linkedin.com/in/t%C3%A9lico-oliveira-540b58241/  
+- Available for freelance work — full-stack & DevOps, WordPress, websites, automation, server maintenance.
+
+---
+
+**Thanks for visiting my profile!** 🚀  
+Let’s build something together.
