@@ -1,122 +1,118 @@
-# 👋 Olá! Eu sou o Télico Oliveira
+👋 Hi, I’m Télico Oliveira
 
-**Desenvolvedor Full-Stack & DevOps** — especializado em WordPress, PHP, Java, infraestrutura, containers e automação.  
-Transformo ideias em aplicações e sites funcionais, seguros e otimizados — com velocidade, eficiência e clareza.
+Backend-leaning Web Developer with practical DevOps experience
+I work mainly with PHP / WordPress, Docker-based environments, and Linux servers, focusing on shipping functional systems, not demos.
 
----
+My work emphasizes:
 
-## 🎯 O que eu faço
+clear problem definition
 
-- Desenvolvimento web backend com **PHP** e **Java**  
-- Sites e sistemas com **WordPress** (temas personalizados, plugins, manutenção)  
-- Front-end básico / intermediário com **HTML, CSS, JavaScript**  
-- Containerização e orquestração com **Docker / Docker Compose / Kubernetes (KIND)**  
-- Deploy e infraestrutura: VPS, servidores, SSL, DNS, backup, ambiente produtivo  
-- Solução de problemas, debugging, performance web, recuperação de sites  
+pragmatic architecture
 
----
+deployable solutions
 
-## 💡 Skills Técnicas
+maintainability over hype
 
-PHP · Java · HTML · CSS · JavaScript · WordPress · Web Development · Backend Web · Frontend · Docker · Docker Compose · Kubernetes · DevOps · Linux Administration · MySQL / SQL · Container Orchestration · Git / GitHub · Responsive Web Design · Site Deployment · Troubleshooting · WordPress Theme & Plugin Config · Web Application Development · REST API (básico) · Server Configuration · Site Recovery
+🧠 What I Actually Do
 
+I don’t try to do everything. I focus on delivering working systems.
 
+Backend & Web
 
-## 📂 Alguns projetos no GitHub
+PHP applications and WordPress-based systems
 
-| Projeto | Descrição | Destaques |
-|--------|-----------|-----------|
-| **calendario-php** | Sistema de calendário em PHP | Backend + lógica de datas + interface web |
-| **quiz-app** | Aplicativo de quiz web | Interatividade, lógica de frontend/backend |
-| **exercicios_java** | Exercícios e algoritmos em Java | Lógica, estrutura de dados, programação orientada a objetos |
-| **damas** | Jogo “Damas” implementado em código | Algoritmos, lógica de jogo, estrutura de código limpa |
-| **torre-de-hanoi** | Implementação do clássico algoritmo Torre de Hanoi | Recursão, lógica algorítmica, clareza de código |
+Custom themes, plugin configuration, maintenance and recovery
 
-> Veja todos os meus projetos públicos no meu perfil GitHub.
+Basic REST API integrations
 
----
+Infrastructure & Delivery
 
-## 🔧 Ferramentas & Tecnologias Favoritas
+Docker and Docker Compose for local and production environments
 
-Docker · Docker Compose · Kubernetes (KIND) · VPS / Servidores Linux · WordPress · MySQL / MariaDB · Nginx / Apache · Git · VS Code / IDE favorita · Hospedagem VPS / Cloud / Deploy manual
+Linux VPS setup (Nginx/Apache, SSL, DNS, backups)
 
+Manual deployments with attention to failure recovery
 
-## 📫 Contato / Como me achar
+Engineering habits
 
-- GitHub: [github.com/telicoscience](https://github.com/telicoscience)  
-- Email: **telico@yahoo.com.br** 
-- LinkedIn: https://www.linkedin.com/in/t%C3%A9lico-oliveira-540b58241/ 
-- Disponível para freelas — desenvolvimento full-stack & DevOps, WordPress, websites, automação, manutenção de servidores.
+Debugging and problem isolation
 
----
+Performance troubleshooting
 
-**Obrigado por visitar meu perfil!** 🚀  
-Vamos construir algo juntos.
+Clear, readable code over clever abstractions
 
-# 👋 Hi! I’m Télico Oliveira
+🧰 Core Stack (focused, not inflated)
 
-**Full-Stack & DevOps Developer** — specialized in WordPress, PHP, Java, infrastructure, containers and automation.  
-I turn ideas into functional, secure and optimized applications and websites — with speed, efficiency and clarity.
+Primary
 
----
+PHP · WordPress · MySQL
 
-## 🎯 What I Do
+Docker · Docker Compose
 
-- Backend web development with **PHP** and **Java**  
-- Websites and systems built with **WordPress** (custom themes, plugins, maintenance)  
-- Basic / intermediate front-end with **HTML, CSS, JavaScript**  
-- Containerization and orchestration with **Docker / Docker Compose / Kubernetes (KIND)**  
-- Deployment and infrastructure: VPS, servers, SSL, DNS, backups, production environment setup  
-- Problem solving, debugging, web performance optimization, site recovery  
+Linux · Nginx / Apache
 
----
+Git / GitHub
 
-## 💡 Technical Skills
+Secondary / Supporting
 
-PHP · Java · HTML · CSS · JavaScript · WordPress · Web Development · Web Backend · Frontend · Docker · Docker Compose · Kubernetes · DevOps · Linux Administration · MySQL / SQL · Container Orchestration · Git / GitHub · Responsive Web Design · Site Deployment · Troubleshooting · WordPress Theme & Plugin Configuration · Web Application Development · REST API (basic) · Server Configuration · Site Recovery
+Java (algorithms and fundamentals)
 
----
+HTML · CSS · JavaScript
 
-## 📂 Some Projects on GitHub
+Kubernetes (KIND — learning & local clusters)
 
-| Project | Description | Highlights |
-|--------|-------------|------------|
-| **calendario-php** | Calendar system in PHP | Backend + date logic + web interface |
-| **quiz-app** | Web-based quiz application | Interactive interface, frontend/backend logic |
-| **exercicios_java** | Java exercises and algorithms | Logic, data structures, object-oriented programming |
-| **damas** | Checkers game implemented in code | Algorithms, game logic, clean code structure |
-| **torre-de-hanoi** | Implementation of the classic Tower of Hanoi algorithm | Recursion, algorithmic logic, clear code |
+📌 Selected Projects (representative, not exhaustive)
 
-> See all my public projects on my GitHub profile.
+I prefer a few honest projects over many shallow ones.
 
----
+calendario-php
 
-## 🔧 Favorite Tools & Technologies
+A PHP-based calendar system focused on backend logic and date handling.
+What it shows: business logic, data handling, simple web interface.
 
-Docker · Docker Compose · Kubernetes (KIND) · Linux VPS / Servers · WordPress · MySQL / MariaDB · Nginx / Apache · Git · VS Code / Preferred IDE · Cloud / VPS Hosting · Manual Deployments
+quiz-app
 
----
+Interactive web quiz application.
+What it shows: frontend/backend interaction, state handling, user flow.
+Next step: persistence, scoring history, and basic tests.
 
-## 📫 Contact / Find Me
+exercicios_java
 
-- GitHub: [github.com/telicoscience](https://github.com/telicoscience)  
-- Email: **telico@yahoo.com.br**  
-- LinkedIn: https://www.linkedin.com/in/t%C3%A9lico-oliveira-540b58241/  
-- Available for freelance work — full-stack & DevOps, WordPress, websites, automation, server maintenance.
+Collection of Java exercises and algorithms.
+What it shows: logic, OOP fundamentals, disciplined practice.
 
----
+damas
 
-**Thanks for visiting my profile!** 🚀  
-Let’s build something together.
+Checkers game implemented with clean logic separation.
+What it shows: algorithmic thinking, rule modeling, structured code.
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+torre-de-hanoi
 
+Classic recursive algorithm implementation.
+What it shows: recursion, clarity, and explanation through code.
+
+🔍 How I Think About Code
+
+I avoid over-engineering when scale doesn’t justify it
+
+I document decisions, not just outcomes
+
+I prefer boring, reliable solutions to fragile “clever” ones
+
+I assume systems will fail and design accordingly
+
+📫 Contact
+
+GitHub: https://github.com/telicoscience
+
+LinkedIn: https://www.linkedin.com/in/t%C3%A9lico-oliveira-540b58241/
+
+Email: telico@yahoo.com.br
+
+Available for:
+
+Web development (PHP / WordPress)
+
+Dockerized environments
+
+Site recovery, maintenance and server setup
