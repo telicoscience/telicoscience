@@ -26,7 +26,6 @@ PHP · Java · HTML · CSS · JavaScript · WordPress · Web Development · Back
 
 | Projeto | Descrição | Destaques |
 |--------|-----------|-----------|
-| **civis-wordpress** | Tema / site WordPress personalizado | Site funcional + personalização de tema/estrutura |
 | **calendario-php** | Sistema de calendário em PHP | Backend + lógica de datas + interface web |
 | **quiz-app** | Aplicativo de quiz web | Interatividade, lógica de frontend/backend |
 | **exercicios_java** | Exercícios e algoritmos em Java | Lógica, estrutura de dados, programação orientada a objetos |
@@ -82,7 +81,6 @@ PHP · Java · HTML · CSS · JavaScript · WordPress · Web Development · Web 
 
 | Project | Description | Highlights |
 |--------|-------------|------------|
-| **civis-wordpress** | Custom WordPress theme/site | Fully functional site + theme/structure customization |
 | **calendario-php** | Calendar system in PHP | Backend + date logic + web interface |
 | **quiz-app** | Web-based quiz application | Interactive interface, frontend/backend logic |
 | **exercicios_java** | Java exercises and algorithms | Logic, data structures, object-oriented programming |
