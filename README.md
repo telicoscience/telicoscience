@@ -1,118 +1,89 @@
-👋 Hi, I’m Télico Oliveira
+# Télico Oliveira
 
-Backend-leaning Web Developer with practical DevOps experience
-I work mainly with PHP / WordPress, Docker-based environments, and Linux servers, focusing on shipping functional systems, not demos.
+Backend & Cloud Developer with practical DevOps experience.
 
-My work emphasizes:
+I work mainly with backend systems, Docker-based environments, Linux servers and deployable web applications, focusing on solving real problems and shipping functional solutions.
 
-clear problem definition
+---
 
-pragmatic architecture
+## Focus Areas
 
-deployable solutions
+- Backend development
+- REST APIs
+- Docker environments
+- Linux infrastructure
+- Cloud deployments
+- System maintainability
+- Pragmatic software architecture
 
-maintainability over hype
+---
 
-🧠 What I Actually Do
+## Core Technologies
 
-I don’t try to do everything. I focus on delivering working systems.
+- Python
+- Docker
+- Linux
+- REST APIs
+- Bash
+- PostgreSQL
+- JavaScript
+- HTML/CSS
+- Git
 
-Backend & Web
+---
 
-PHP applications and WordPress-based systems
+## Infrastructure & DevOps
 
-Custom themes, plugin configuration, maintenance and recovery
+- Docker Compose environments
+- Reverse proxy configuration
+- VPS deployment workflows
+- Linux server administration
+- Production troubleshooting
+- Containerized applications
 
-Basic REST API integrations
+---
 
-Infrastructure & Delivery
+## Current Learning Path
 
-Docker and Docker Compose for local and production environments
+Currently studying and building projects focused on:
 
-Linux VPS setup (Nginx/Apache, SSL, DNS, backups)
+- Java + Spring Boot
+- Microservices architecture
+- Backend scalability
+- Cloud architecture
+- Software engineering fundamentals
 
-Manual deployments with attention to failure recovery
+---
 
-Engineering habits
+## Featured Projects
 
-Debugging and problem isolation
+### Web Checkers
+Interactive checkers game built with Vanilla JavaScript and TailwindCSS.
 
-Performance troubleshooting
+### REST API Flask
+RESTful API focused on backend architecture and endpoint organization.
 
-Clear, readable code over clever abstractions
+### EduTrack Microservices
+Java/Spring Boot study project focused on scalable backend systems.
 
-🧰 Core Stack (focused, not inflated)
+### Linear Algebra
+Mathematical computing and algorithm implementation experiments using Python.
 
-Primary
+---
 
-PHP · WordPress · MySQL
+## Engineering Philosophy
 
-Docker · Docker Compose
+- Maintainability over hype
+- Incremental improvement
+- Practical engineering
+- Functional systems first
 
-Linux · Nginx / Apache
+---
 
-Git / GitHub
+## Contact
 
-Secondary / Supporting
+GitHub:
+https://github.com/telicoscience
 
-Java (algorithms and fundamentals)
-
-HTML · CSS · JavaScript
-
-Kubernetes (KIND — learning & local clusters)
-
-📌 Selected Projects (representative, not exhaustive)
-
-I prefer a few honest projects over many shallow ones.
-
-calendario-php
-
-A PHP-based calendar system focused on backend logic and date handling.
-What it shows: business logic, data handling, simple web interface.
-
-quiz-app
-
-Interactive web quiz application.
-What it shows: frontend/backend interaction, state handling, user flow.
-Next step: persistence, scoring history, and basic tests.
-
-exercicios_java
-
-Collection of Java exercises and algorithms.
-What it shows: logic, OOP fundamentals, disciplined practice.
-
-damas
-
-Checkers game implemented with clean logic separation.
-What it shows: algorithmic thinking, rule modeling, structured code.
-
-torre-de-hanoi
-
-Classic recursive algorithm implementation.
-What it shows: recursion, clarity, and explanation through code.
-
-🔍 How I Think About Code
-
-I avoid over-engineering when scale doesn’t justify it
-
-I document decisions, not just outcomes
-
-I prefer boring, reliable solutions to fragile “clever” ones
-
-I assume systems will fail and design accordingly
-
-📫 Contact
-
-GitHub: https://github.com/telicoscience
-
-LinkedIn: https://www.linkedin.com/in/t%C3%A9lico-oliveira-540b58241/
-
-Email: telico@yahoo.com.br
-
-Available for:
-
-Web development (PHP / WordPress)
-
-Dockerized environments
-
-Site recovery, maintenance and server setup
+LinkedIn:
+www.linkedin.com/in/télico-oliveira-silva-filho-7a32b4298
